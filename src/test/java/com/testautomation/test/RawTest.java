@@ -1,4 +1,4 @@
-package com.testautomation;
+package com.testautomation.test;
 
 import com.testautomation.conf.BaseTest;
 import org.junit.jupiter.api.Test;
